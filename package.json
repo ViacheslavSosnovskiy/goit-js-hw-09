@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-09",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "prestart": "echo \"это prestart\"",
+    "poststart": "echo \"это poststart\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViacheslavSosnovskiy/goit-js-hw-09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViacheslavSosnovskiy/goit-js-hw-09/issues"
+  },
+  "homepage": "https://github.com/ViacheslavSosnovskiy/goit-js-hw-09#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.1",
+    "shortid": "^2.2.16"
+  }
+}
