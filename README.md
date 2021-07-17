@@ -1,2 +1,5 @@
 # goit-js-hw-09
-Test
+
+Node.js
+Parcel
+Webpack
